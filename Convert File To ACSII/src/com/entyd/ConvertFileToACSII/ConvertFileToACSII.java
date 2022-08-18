@@ -20,6 +20,7 @@ public class ConvertFileToACSII extends javax.swing.JFrame {
         setLocationRelativeTo(null);
         //setIconImage(Toolkit.getDefaultToolkit().getImage(getClass().getResource("../Image/logo.png")));
         setResizable(false);
+        
     }
 
     /**
